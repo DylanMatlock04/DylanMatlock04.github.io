@@ -29,5 +29,5 @@ The portfolio includes photographs, CAD models, PCB layouts, engineering challen
 ## Contact
 
 **Dylan Matlock**  
-Boca Raton, Florida  
+Tamarac, Florida  
 Email: dylanmatlock04@gmail.com
