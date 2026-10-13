@@ -1,42 +1,33 @@
-# Dylan Matlock — Engineering Portfolio
+# Dylan Matlock | Engineering Portfolio
 
-A lightweight, responsive HTML/CSS/JavaScript portfolio with a featured modular wireless keyboard case study.
+Personal engineering portfolio showcasing my experience in hardware design, PCB development, embedded systems, and product prototyping.
 
-## Preview
-Open `index.html` in your browser, or run a local static server from this folder:
+I'm a Computer Engineering graduate and current M.S. student at Florida Atlantic University, with an interest in hardware engineering and research and development.
 
-```bash
-python -m http.server 8000
-```
+## Featured Project: Modular Wireless Keyboard
 
-Then navigate to http://localhost:8000.
+My senior design project at FAU involved leading the development of a fully functional modular wireless mechanical keyboard.
 
-## Publish for free with GitHub Pages
+Key features include:
+- Custom PCB schematics and layouts designed in KiCad
+- Three nRF52840-based microcontroller sections communicating wirelessly
+- Magnetic pogo-pin connections for interchangeable expansion modules
+- Custom mechanical enclosures designed in Fusion 360
+- Hands-on PCB fabrication, assembly, soldering, and troubleshooting
 
-1. Create a GitHub repository named `<your-username>.github.io`.
-2. Upload the *contents* of this folder (not the enclosing folder) to the repository's main branch.
-3. In repository Settings → Pages, select **Deploy from a branch**, `main`, `/ (root)`.
-4. Wait for GitHub to publish `https://<your-username>.github.io/`.
+The portfolio includes photographs, CAD models, PCB layouts, engineering challenges, and a live demonstration from FAU's Senior Design Showcase.
 
-## Version 3 content
-- Includes original finished-keyboard photos, separated-module photo, KiCad and Fusion 360 screenshots, hardware-rework photos, and a 37-second converted showcase demonstration.
-- The video is real, handheld footage from the showcase; no staged replacement footage is used.
-- Case study highlights the actual team attribution and the completed prototype's reworked PCB connections.
+## Website
 
-## Before publishing
-- Review image/video captions and confirm you have permission to publish any media with other people visible or audible.
-- Add a real LinkedIn URL and personal GitHub profile URL when ready.
-- If you update the resume, replace `Dylan_Matlock_Resume.docx`.
-- Make sure the project demo loads when deployed; GitHub Pages supports static MP4 hosting but repository size matters.
+**[View My Engineering Portfolio](https://dylanmatlock04.github.io/)**
 
+## Technologies
 
-## V4 notes
-- Images on the project page can be clicked or focused with Tab and opened with Enter; close with Escape or CLOSE.
-- The separated-modules image is rotated for landscape display.
-- The original clipped architecture poster crop has been replaced with a clearly labeled conceptual diagram.
-- Version-two improvements are explicitly future proposals.
+- HTML, CSS, JavaScript
+- GitHub Pages
 
+## Contact
 
-## v5 update
-- Corrected system architecture to show the left half as primary Bluetooth controller; right half and keypad as MCU-equipped wireless peripherals; function, macro, and arrow expansions as pogo-pin dependent without their own MCUs.
-- Clarified individual hardware contributions versus teammate-developed ZMK firmware.
+**Dylan Matlock**  
+Boca Raton, Florida  
+Email: dylanmatlock04@gmail.com
